@@ -1,0 +1,75 @@
+.hero{
+    background-color: honeydew;
+    color:blue;
+    padding: 50px;
+    margin: -50px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.menu {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0 2vw;
+    padding: 1vw;
+    display: inline;
+    font-size: 3vh;
+    color: gold;
+
+}
+.menu:hover{
+    background-color: red;
+}
+
+nav {
+    width: 100vw;
+    background-color: lightskyblue;
+}
+button{
+    display: none;
+}
+.socials{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ashe{
+    height: 300px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 360px;   
+}
+
+footer{
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 500px) {
+    .menu{
+        flex-direction: column;
+        margin: 0;
+        display: block;
+    }
+    button{
+        display: block;
+        padding: 2vw;
+        font-size: 2vh;
+        background-color: red;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        align-self: flex-start;
+    }
+
+}
