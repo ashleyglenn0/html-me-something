@@ -1,5 +1,5 @@
 <script src="jquery-3.4.0.min.js"></script>
-<script src="scripts/navbar.js"></script>
+
 
 
 
