@@ -1,1 +1,1 @@
-This is my first blog post. See a live demo [here](https://ashleyglenn0.github.io/html-me-something/)g
+This is my first blog post. See a live demo [here](https://ashleyglenn0.github.io/html-me-something/)
