@@ -3,6 +3,7 @@
     color:blue;
     padding: 50px;
     margin: -50px;
+    font-family: arial;
 }
 h1{
     text-align: center;
@@ -24,7 +25,7 @@ p{
 
 }
 .menu:hover{
-    background-color: red;
+    background-color: navy;
 }
 
 nav {
@@ -65,7 +66,7 @@ footer{
         display: block;
         padding: 2vw;
         font-size: 2vh;
-        background-color: red;
+        background-color: grey;
         border: none;
         outline: none;
         cursor: pointer;
